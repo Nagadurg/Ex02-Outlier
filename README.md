@@ -135,44 +135,75 @@ Dataset
 ![output](./2.1.png)
 
 Dataset head
+
+
 ![output](./2.2.png)
 
 
 Dataset info
+
+
+
 ![output](./2.3.png)
 
 
 Dataset describe
+
+
 ![output](./2.4.png)
 
 
 Null values
+
+
+
 ![output](./2.5.png)
 
 
 Dataset shape
+
+
+
+
 ![output](./2.6.png)
 
 
 
 Box plot of price_per_sqft column with outliers
+
+
+
+
 ![output](./2.7.png)
 
 
 
 price_per_sqft - Dataset after removing outliers
+
+
+
+
 ![output](./2.8.png)
 
 
 
 
 price_per_sqft - Shape of Dataset after removing outliers
+
+
+
+
+
 ![output](./2.9.png)
 
 
 
 
 Box Plot of price_per_sqft column without outliers
+
+
+
+
 ![output](./2.10.png)
 
 
@@ -180,51 +211,93 @@ Box Plot of price_per_sqft column without outliers
 
 3) Examine price_per_sqft column and use zscore of 3 to remove outliers.
 Dataset after removal of outlier using z score
+
+
+
+
 ![output](./2.11.png)
 
 
 
 Shape of Dataset after removal of outlier using z score
+
+
+
+
 ![output](./2.12.png)
 
 
 
 
 price_per_sqft column after removing outliers
+
+
+
+
 ![output](./2.13.png)
 
 
 (4) For the data set height_weight.csv detect weight and height outliers using IQR method
 Dataset
+
+
+
+
+
 ![output](./2.14.png)
 
 
 
 
 Datahead
+
+
+
+
+
 ![output](./2.15.png)
 
 
 
 
 Dataset info
+
+
+
+
+
 ![output](./2.16.png)
 
 
 
 Dataset describe
+
+
+
+
+
 ![output](./2.17.png)
 
 
 
 
 Null values
+
+
+
+
+
 ![output](./2.18.png)
 
 
 
 
 Dataset Shape
+
+
+
+
+
 ![output](./2.19.png)
 
 
@@ -232,6 +305,14 @@ Dataset Shape
 
 
 Weight - With outlier
+
+
+
+
+
+
+
+
 ![output](./2.20.png)
 
 
@@ -239,12 +320,26 @@ Weight - With outlier
 
 
 Weight - Dataset after removing Outliers using IQR method
+
+
+
+
+
+
+
 ![output](./2.21.png)
 
 
 
 
 Weight - Shape of Dataset after removing Outliers using IQR method
+
+
+
+
+
+
+
 ![output](./2.22.png)
 
 
@@ -252,6 +347,13 @@ Weight - Shape of Dataset after removing Outliers using IQR method
 
 
 Weight - Without Outliers using IQR method
+
+
+
+
+
+
+
 ![output](./2.23.png)
 
 
@@ -260,23 +362,48 @@ Weight - Without Outliers using IQR method
 
 
 Height - With outliers
+
+
+
+
+
 ![output](./2.24.png)
 
 
 
 
 Height - Dataset after removing Outliers using IQR method
+
+
+
+
+
 ![output](./2.25.png)
 
 
 
 
 Height - Shape of Dataset after removing Outliers using IQR method
+
+
+
+
+
+
+
+
 ![output](./2.26.png)
 
 
 
 Height - Without Outliers using IQR method
+
+
+
+
+
+
+
 ![output](./2.26.png)
 
 
