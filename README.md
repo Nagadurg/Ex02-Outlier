@@ -404,7 +404,7 @@ Height - Without Outliers using IQR method
 
 
 
-![output](./2.26.png)
+![output](./2.27.png)
 
 
 
